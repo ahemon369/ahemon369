@@ -19,12 +19,36 @@ I'm currently working on  Android App Project<br>I'm looking to collaborate with
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg" alt="kotlin" width="40" height="40"/> </a> </p>
 
 
-### My status ⭐
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h3 align="center">Top Most Languages 🌟</h3><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahemon369&theme=react" /> <br>
+
+</div>
+
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Github Status 🏆</h3><br>
 
 <div align="center">
-<img alt="Emon's GitHub status" src="https://github-readme-stats.vercel.app/api?username=ahemon369&show_icons=true&theme=radical"/>
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahemon369&layout=compact&&langs_count=8"/>
+<a href="https://github.com/ahemon369">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahemon369&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahemon369&theme=2077&utcOffset=6" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahemon369&theme=2077" height="180em" />
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ahemon369&theme=react-dark"/>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">🐍 Contribution Snake</h3><br>
+
+<img src="https://raw.githubusercontent.com/ShahJabir/ShahJabir/output/snake.svg" alt="Snake animation" />
+</div>
+
+
+
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 
 ### Profile views counter 👁️‍🗨️
 [![Maksym Rudnyi profile views](https://u8views.com/api/v1/github/profiles/7869344/views/day-week-month-total-count.svg)](https://u8views.com/github/ahemon369)
