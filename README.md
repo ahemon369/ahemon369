@@ -38,11 +38,7 @@ I'm currently working on  Android App Project<br>I'm looking to collaborate with
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">⚡Activity Graph:</h2>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=ahemon369&theme=react-dark"/>
-<div align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">🐍 Contribution Snake</h3><br>
 
-<img src="https://raw.githubusercontent.com/Shahjabir/Shahjabir/output/snake.svg" alt="Snake animation" />
-</div>
 
 
 
