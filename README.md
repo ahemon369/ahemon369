@@ -6,13 +6,13 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahemon369" alt="ahemon369" /></a> </p> -->
 
-- 🔭 I’m currently working on **Mobile Apps**
+- 🔭 I’m currently working on **Mobile Apps & CTF**
 
 - 🌱 I’m currently learning **Flutter and Jetpack Compose || CTF**
 
-- 👯 I’m looking to collaborate on **Android Projects**
+- 👯 I’m looking to collaborate on **Android Projects and CTF**
 
-- 💬 Ask me about **Android,Java,Kotlin,Flutter,CTF**
+- 💬 Ask me about **Android,Java,Kotlin,Flutter,CTF,UI/UX Designe**
 
 - 📫 How to reach me **mdamranhossinemon2@gmail.com**
 
