@@ -1,7 +1,12 @@
+<h1 align="center">Hi 👋, I'm Md Amran Hossin Emon</h1>
+<h3 align="center">I'm a Learner and Android Developer & Problem Solver!!</h3>
 
-<h1 align="center">Hi 👋, I'm Emon</h1>
-<h3 align="center">I am a Android Developer</h3>
-
+<br><!-- newline -->
+<ul>
+  <li> 🥅 2025 Goals: To Solve 500+ problems across various online judges (Loading)</li>
+  <li> 🥅 2025 Goals: To become a pupil on Codeforces</li>
+</ul>
+<br><!-- newline -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahemon369&label=Profile%20views&color=0e75b6&style=flat" alt="ahemon369" /> </p>
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahemon369" alt="ahemon369" /></a> </p> -->
