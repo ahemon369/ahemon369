@@ -1,5 +1,34 @@
-# 💫 About Me:
-I'm currently working on  Android App Project<br>I'm looking to collaborate with Team Bitsec<br>I'm looking for help with App<br>I'm currently learning C and C+ Programming<br>Fun fact
+
+<h1 align="center">Hi 👋, I'm Emon</h1>
+<h3 align="center">I am a Android Developer</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ahemon369&label=Profile%20views&color=0e75b6&style=flat" alt="ahemon369" /> </p>
+
+<!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahemon369" alt="ahemon369" /></a> </p> -->
+
+- 🔭 I’m currently working on **Mobile Apps**
+
+- 🌱 I’m currently learning **Flutter and Jetpack Compose || CTF**
+
+- 👯 I’m looking to collaborate on **Android Projects**
+
+- 💬 Ask me about **Android,Java,Kotlin,Flutter,CTF**
+
+- 📫 How to reach me **mdamranhossinemon2@gmail.com**
+
+
+
+```yaml
+
+-About Me:
+         - Name: Md Amran Hossin Emon
+         - Education: Diploma in Engineering Computer Science
+         - Live in: Feni
+
+```
+
+
+<br>
 
 
 <h3 align="left">Connect with me:</h3>
