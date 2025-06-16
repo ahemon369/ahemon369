@@ -66,7 +66,7 @@
 <a href="https://github.com/ahemon369">
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ahemon369&theme=2077" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ahemon369&theme=2077&utcOffset=6" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahemon369&theme=2077" height="180em" />
+
 </div>
 
 
