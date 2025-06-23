@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Android Projects and CTF**
 
-- 💬 Ask me about **Android,Java,Kotlin,Flutter,CTF,UI/UX Designe**
+- 💬 Ask me about **Android,Java,Kotlin,Flutter,CTF,UI/UX Design**
 
 - 📫 How to reach me **mdamranhossinemon2@gmail.com**
 
